@@ -3,6 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://klu2300031662.github.io/reactApp1",
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",
